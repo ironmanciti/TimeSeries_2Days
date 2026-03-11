@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls c:/Users/trimu/OneDrive/TimeSeries-2Days/*.ipynb)"
+    ]
+  }
+}
